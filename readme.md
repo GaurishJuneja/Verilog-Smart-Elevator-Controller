@@ -34,9 +34,7 @@ tb/
 
 waveforms/
 └── waveform screenshots
-
-docs/
-└── signal_reference.md
+└── waveform_explanation.md
 ```
 
 ## Module Overview
