@@ -26,8 +26,8 @@ src/
 ├── elevator_fsm.v
 ├── request_registry.v
 ├── synchronizer.v
-├── debouncer.v
-└── elevator_defs.v
+├── elevator_defs.v
+└── debouncer.v
 
 tb/
 └── elevator_tb.v
